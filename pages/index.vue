@@ -3,7 +3,7 @@
     <nav class="">
       <NuxtLink to="#">URLShortify</NuxtLink>
 
-      <div class="espace-x-3">
+      <div class="espace-x-3 bg-black text-white">
         <NuxtLink to="#">Se connecter</NuxtLink>
         <NuxtLink to="#">S'inscrire</NuxtLink>
       </div>
